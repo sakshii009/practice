@@ -1,5 +1,3 @@
 print("SAKSHI AGALE")
 print("D Y PATIL")
 print("TALSANDE")
-print("AIML")
-print("A")
